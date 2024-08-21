@@ -31,4 +31,4 @@ Sonuç kümesinin başlangıcından belirli bir sayıda satırı atlar.
 Sonuçları belirli bir sütuna göre sıralar.
 
 10. LIKE
-Ad verme (pattern matching) işlemi gerçekleştirir; sütundaki değerleri belirli bir desenle karşılaştırır.
+Bir sütundaki değerlerin belirli bir desenle eşleşip eşleşmediğini kontrol etmek için kullanılır. Bu operatör, metin aramaları yaparken esnek bir desen eşleştirme sağlar.
